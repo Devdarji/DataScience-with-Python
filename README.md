@@ -16,3 +16,11 @@
   > ##### Date and Time
   > ##### Data Wrangling
   > ##### Data Aggregation
+  > ##### Reading HTML Pages
+  > ##### Processing Unstructured Data
+  > ##### Word Rokenization
+  > ##### Stemming and Lemmatization
+
+### Data Visualization
+  # **COMING SOON**
+
