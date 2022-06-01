@@ -1,5 +1,9 @@
 ## DataSciencewith Python
 
+1. git clone https://github.com/Devdarji/DataScience-with-Python.git
+2. cd DataScience-with-Python
+3. pip install requirements.txt
+
 ### Data Processing
 
   > ##### Data Operations
