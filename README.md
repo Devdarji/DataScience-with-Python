@@ -22,5 +22,26 @@
   > ##### Stemming and Lemmatization
 
 ### Data Visualization
-  # **COMING SOON**
 
+  > ##### Chart Properties
+  > ##### Chart Styling
+  > ##### Box Plots
+  > ##### Heat Maps
+  > ##### Scatter Plots
+  > ##### Bubble Charts
+  > ##### 3D Charts 
+  > ##### Time Series
+  > ##### Geographical Data
+  > ##### Graph Data
+
+### Data Analysis
+
+  > ##### Measuring Central Tendency
+  > ##### Measuring Variance
+  > ##### Normal Distribution
+  > ##### Binomial Distribution
+  > ##### Poisson Distribution
+  > ##### Bernoulli Distribution
+  > ##### Correlation
+  > ##### Chi-Square Test
+  > ##### Linear Regression
